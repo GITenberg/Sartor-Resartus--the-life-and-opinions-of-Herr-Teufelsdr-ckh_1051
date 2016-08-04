@@ -1,0 +1,47 @@
+_repo: Sartor-Resartus--the-life-and-opinions-of-Herr-Teufelsdr-ckh_1051
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carlyle, Thomas
+    alias: Carlyle, T. (Thomas)
+    birthdate: 1795
+    deathdate: 1881
+    gutenberg_agent_id: '523'
+    url: http://www.gutenberg.org/2009/agents/523
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Carlyle
+description: "Sartor Resartus (meaning 'The tailor re-tailored') is an 1836 novel\
+  \ by Thomas Carlyle, first published as a serial in 1833–34 in Fraser's Magazine.\
+  \ The novel purports to be a commentary on the thought and early life of a German\
+  \ philosopher called Diogenes Teufelsdröckh (which translates as 'god-born devil-dung'),\
+  \ author of a tome entitled \"Clothes: Their Origin and Influence\", but was actually\
+  \ a poioumenon. Teufelsdröckh's Transcendentalist musings are mulled over by a skeptical\
+  \ English Reviewer (referred to as Editor) who also provides fragmentary biographical\
+  \ material on the philosopher. The work is, in part, a parody of Hegel, and of German\
+  \ Idealism more generally. However, Teufelsdröckh is also a literary device with\
+  \ which Carlyle can express difficult truths.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1997-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1051'
+  wikidata: Q1134140
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Satire'
+- !lcc 'PR'
+- !lcsh 'Germany -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Clothing and dress -- Fiction'
+- !lcsh 'Philosophers -- Fiction'
+- GITenberg
+title: 'Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh'
+url: http://www.gutenberg.org/ebooks/1051
+wikipedia:
+- https://ru.wikipedia.org/wiki/Sartor_Resartus
+- https://en.wikipedia.org/wiki/Sartor_Resartus
+- https://it.wikipedia.org/wiki/Sartor_Resartus
+- https://es.wikipedia.org/wiki/Sartor_Resartus
