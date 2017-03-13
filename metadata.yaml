@@ -1,5 +1,8 @@
 _repo: Sartor-Resartus--the-life-and-opinions-of-Herr-Teufelsdr-ckh_1051
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carlyle, Thomas
@@ -19,6 +22,8 @@ description: "Sartor Resartus (meaning 'The tailor re-tailored') is an 1836 nove
   \ material on the philosopher. The work is, in part, a parody of Hegel, and of German\
   \ Idealism more generally. However, Teufelsdröckh is also a literary device with\
   \ which Carlyle can express difficult truths.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1051#Sartor-Resartus--the-life-and-opinions-of-Herr-Teufelsdr-ckh
 gutenberg_issued: '1997-09-01'
 gutenberg_type: Text
 identifiers:
